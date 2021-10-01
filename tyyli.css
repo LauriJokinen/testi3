@@ -24,7 +24,7 @@ p {
           height: 100px;
           }
 
-ul {
+ul.a {
     list-style-type="square"
 
     }
