@@ -20,5 +20,9 @@ p {
 .otsikot {
           border-style: dotted;
           border-width: 2px
+}
+
+ul {
+    list-style-type="square"
 
 }
